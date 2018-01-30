@@ -1,0 +1,17 @@
+.search-form{
+    display: inline !important;
+    position: relative;
+    margin-left: 10px;
+}
+.input-search-form{
+    padding: 2px 0;
+}
+.input-group-btn{
+    display: inline !important;
+    position: absolute;
+    top: -5px;
+    right: -3px;
+}
+.button-search{
+    padding: 3px 9px !important;
+}
